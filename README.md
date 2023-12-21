@@ -1,16 +1,16 @@
-# cache_api_data_in_flutter
+<img width="960" alt="CACHE API DATA IN FLUTTER (1)" src="https://github.com/Snehasis4321/cache_api_data_in_flutter/assets/96995340/2ba25929-4a0f-4883-9647-8f27b0d698ff">
+ 
+ # Cache API data in Flutter app
 
-A new Flutter project.
+This is the source code of how to cache api data inside your flutter app
 
-## Getting Started
+## 📽 [Video Link](https://youtu.be/t4TWC9xATaM)
+Watch the video for full tutorial.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 👨‍💻 Topics -
+- api fetching in flutter
+- sqflite (create, read, update, delete)
+- timely fetching api
+- stroing api on database and display to user
+- pagination (fetching the api in parts of 20)
+- scroll controller 
